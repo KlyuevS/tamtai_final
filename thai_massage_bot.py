@@ -18,7 +18,7 @@ import time
 import urllib.parse
 import urllib.request
 
-BOT_TOKEN = os.getenv("BOT_TOKEN") or "7801204766:AAEdMPyBzYU7J5VvMrI0j8UEZKnLvnDbQws"
+BOT_TOKEN = os.getenv("BOT_TOKEN") or "8369888929:AAEGc9pXfUuddBLXNrlNjgdLtkUxJFvbGPc"
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
 POLL_TIMEOUT = 20
 
